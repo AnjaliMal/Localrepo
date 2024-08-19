@@ -4,7 +4,7 @@ echo "**********************"
 echo "                        "
 echo "Welcome to Signup page."
 echo "                     "
-echo "***********************"
+echo "********************"
 
 echo "PLease enter your name:"
 read name
